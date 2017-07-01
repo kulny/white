@@ -1,0 +1,6 @@
+create a class which allows us to make unique units; namely, class instantiates object unit and set respective variable, and can then instantiate new object unit and set new variables
+allows these units to be reused later  
+
+^^^ I think that's how we should do it
+
+
