@@ -48,4 +48,11 @@ public class units {
     public void setCharName(String name) {
         charName = name;
     }
+    
+    public units(int health, int speed, int damage, String charName) { //constructor to create new units easily
+        this.health = health;
+        this.speed = speed;
+        this.damage = damage;
+        this.charName = charName;
+    }
 }
